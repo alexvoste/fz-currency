@@ -15,4 +15,3 @@ mv .env.example .env
 ```
 
 (c). Author Alexvoste. MIT license
-```
